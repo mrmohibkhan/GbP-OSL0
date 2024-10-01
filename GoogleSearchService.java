@@ -11,8 +11,8 @@ import org.json.JSONObject;
 public class GoogleSearchService {
 
     // Replace with your actual API key and Search Engine ID
-    private static final String API_KEY = "AIzaSyCI3bSBytIkfWGOpHDojVMoR9rkvz9M7yk";
-    private static final String SEARCH_ENGINE_ID = "50de09cd724954a6b";
+    private static final String API_KEY = "insert your API";
+    private static final String SEARCH_ENGINE_ID = "insert your cxd";
 
     // Method to perform a search and return the list of URLs and time taken
     public static SearchResult performSearch(String query, int numResults) {
